@@ -1,5 +1,7 @@
 01/05/2021
 -   Fixed faction achievements
+15/09/2021
+-   Index Lade-Bildschirm ins Deutsche übersetzt
 
 10/04/2021
 -   Added challenge: Extreme resistance
