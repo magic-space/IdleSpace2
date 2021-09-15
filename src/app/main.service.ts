@@ -21,7 +21,7 @@ declare let kongregateAPI: any;
 declare let PlayFab: any;
 
 export const SAVE_ID = "IS2_save";
-export const PLAYFAB_TITLE_ID = "C0DC9";
+export const PLAYFAB_TITLE_ID = "A2590";
 const SAVE_INTERVAL_PLAYFAB = 3 * 60 * 1000;
 export const GAME_SPEED = 1;
 
